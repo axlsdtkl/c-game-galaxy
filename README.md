@@ -2,6 +2,8 @@
 
 注：设计的初衷是走迷宫，但是玩家很容易忘记这一初衷 
 
+![Image text](https://imgchr.com/i/DxCG90)
+![Image text](c-game-galaxy/1607324980817.jpg)
 
 运行方式：直接用dev c++或者其它的ide打开yhbs.dev，然后运行即可。
 game.cpp为主要代码，music文件夹中放了背景音乐，音乐采用mp3格式。
